@@ -1,3 +1,27 @@
+# E-Commerce Backend API - Project Nexus
+
+A complete e-commerce backend system built with Django REST Framework for the ProDev Backend Engineering program.
+
+## 🚀 Features
+
+- **User Authentication**: Custom User model with email authentication
+- **Product Management**: CRUD operations for products and categories
+- **Order System**: Complete order processing with order items
+- **RESTful API**: Clean API endpoints for frontend integration
+- **Admin Panel**: Django admin for easy data management
+- **Database**: SQLite (development) / PostgreSQL ready
+
+## 📁 Project Structure
+alx-project-nexus/
+├── ecommerce/ # Main Django project
+├── products/ # Products app (models, views, serializers)
+├── users/ # Custom User model and authentication
+├── orders/ # Orders and order items management
+├── requirements.txt # Python dependencies
+└── README.md # This file
+
+
+
 # ALX Project Nexus – ProDev Backend Engineering Documentation
 
 ## 📌 Overview
